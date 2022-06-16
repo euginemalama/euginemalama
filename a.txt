@@ -1,0 +1,1 @@
+As a practical application of this concept, a curve describing the motion of an object with a parameter of time must have C1 continuity and its first derivative is differentiable—for the object to have finite acceleration. For smoother motion, such as that of a camera's path while making a film, higher orders of parametric continuity are required. 
